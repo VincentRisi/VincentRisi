@@ -1,0 +1,8 @@
+- Hi, I’m Vincent.Risi@gmail.com
+- I’m interested in finding out about getting chapter name if they are available.
+- I’m currently learning that providers like Audible do not understand that I am not an avid cellphone user. 
+- I use and old Samsung 3 as my book listening device **without a simm card** and **Smart Audio Book player**. It does mp3 and m4b quite happily, I use mp3 because as it is the most ubiquitous.
+- I have on occasion got chapter titles and used them. I do like to use directories with separate chapters. Its easier to go back a few chapters if you fall asleep listening.
+- I have lot's of self written utility using C or python for managing my home backups and doing file splits. I do have about a thousand or more audible books that I have purchased.
+- I also prefer to use linux as my desktop operating system. I like Linux Mint Cinnamon.
+- If there is a database site that supplies book chapters, that would be quite cool (kewl).
